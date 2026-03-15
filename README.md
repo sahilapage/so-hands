@@ -6,37 +6,12 @@ The goal is simple and practical: teach the hand-arm system to perform stable pi
 
 ---
 
-## 📸 Project Media
+##  Project Media
 
-### 1) Project Photo
 
 ![SO-ARM100 with 3D-printed dexterous hand](media/Screenshot%20from%202026-03-16%2001-44-17.png)
 
-### 2) Hand Mechanism (in making)
-<video controls width="100%" preload="metadata">
-	<source src="media/hand_mechanism.mp4" type="video/mp4" />
-	Your browser does not support the video tag.
-</video>
-
-### 3) Real Hand Build Video (IMG_0447)
-<video controls width="100%" preload="metadata">
-	<source src="media/IMG_0447%20(1).mp4" type="video/mp4" />
-	Your browser does not support the video tag.
-</video>
-
-### 4) Pick and Place — Initial Policy
-<video controls width="100%" preload="metadata">
-	<source src="media/pick_and_place.mp4" type="video/mp4" />
-	Your browser does not support the video tag.
-</video>
-
-### 5) Pick and Place — Trained Policy (Improved)
-<video controls width="100%" preload="metadata">
-	<source src="media/pick_and%20Place_2.mp4" type="video/mp4" />
-	Your browser does not support the video tag.
-</video>
-
----
+https://github.com/user-attachments/assets/9f188c8b-07df-4c28-be88-49698854e292
 
 ## 🧠 Project Overview
 
