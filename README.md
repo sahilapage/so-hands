@@ -13,28 +13,24 @@ The goal is simple and practical: teach the hand-arm system to perform stable pi
 ![SO-ARM100 with 3D-printed dexterous hand](media/Screenshot%20from%202026-03-16%2001-44-17.png)
 
 ### 2) Hand Mechanism (in making)
-/home/sahil/Desktop/so100 arm/so-hands/media/hand_mechanism.mp4
 <video controls width="100%" preload="metadata">
 	<source src="media/hand_mechanism.mp4" type="video/mp4" />
 	Your browser does not support the video tag.
 </video>
 
 ### 3) Real Hand Build Video (IMG_0447)
-/home/sahil/Desktop/so100 arm/so-hands/media/IMG_0447 (1).mp4
 <video controls width="100%" preload="metadata">
 	<source src="media/IMG_0447%20(1).mp4" type="video/mp4" />
 	Your browser does not support the video tag.
 </video>
 
 ### 4) Pick and Place — Initial Policy
-/home/sahil/Desktop/so100 arm/so-hands/media/pick_and_place.mp4
 <video controls width="100%" preload="metadata">
 	<source src="media/pick_and_place.mp4" type="video/mp4" />
 	Your browser does not support the video tag.
 </video>
 
 ### 5) Pick and Place — Trained Policy (Improved)
-/home/sahil/Desktop/so100 arm/so-hands/media/pick_and Place_2.mp4
 <video controls width="100%" preload="metadata">
 	<source src="media/pick_and%20Place_2.mp4" type="video/mp4" />
 	Your browser does not support the video tag.
